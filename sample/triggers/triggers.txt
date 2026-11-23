@@ -1,0 +1,20 @@
+# ÎÒÊÇ×¢ÊÍ
+[
+	14,0
+	0,0
+	53,{weapid}
+]
+{
+---
+self: allied
+enemy: all/allied/sovied/yuri
+team: 10E1, 10MTNK
+
+override: Suicide=yes  # ¸²¸Çteamtype×Ö¶Î
+override: Priority=5
+...
+---
+
+---
+
+}

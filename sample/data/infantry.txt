@@ -1,0 +1,9 @@
+type=infantry
+
+COUNTRY	NAME
+allied	E1
+allied	GGI
+sovied	E2
+sovied	SHK
+yuri	INIT
+yuri	VIRUS

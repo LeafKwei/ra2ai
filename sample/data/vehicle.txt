@@ -1,0 +1,9 @@
+type=vehicle
+
+COUNTRY	NAME
+allied	MTNK
+allied	SREF
+soviet	HTNK
+soviet	V3
+yuri	YATNK
+yuri	LTNK

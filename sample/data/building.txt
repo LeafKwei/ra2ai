@@ -1,0 +1,6 @@
+type=building
+
+COUNTRY	NAME	ID
+allied	GACNST	11
+soived	NACNST	34
+yuri	YACNST	68
