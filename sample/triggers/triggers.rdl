@@ -1,0 +1,12 @@
+# Œ“ «◊¢ Õ
+TROOP 10E1,10MTNK
+TEMP atk_any
+SELF allied
+ENEMY ALL/allied/soviet/yuri
+DONE
+
+TROOP 10E2,10HTNK
+TEMP atk_any
+SELF soviet
+ENEMY ALL/allied/soviet/yuri
+DONE
